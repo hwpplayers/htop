@@ -43,3 +43,10 @@ a first orientation to go by when contributing to this repository.
 
 The details of the coding style as well as what to take care about with your
 contributions can be found in our [style guide](docs/styleguide.md).
+
+hwpplayers Style Guide
+----------------------
+
+We welcome all hackers who write their code with any style like traditional UNIX, BSDs, GNU or Linux or your chosen style.
+
+Happy Hacking!
